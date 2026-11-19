@@ -1,5 +1,7 @@
 # Pattern Studies
 
+![Pattern Studies — generated artwork](pattern.svg)
+
 **Generative Geometry · Python · Computational Art**
 
 ## Overview
